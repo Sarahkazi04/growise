@@ -1,0 +1,4 @@
+0 tomato
+1 potato
+2 bhindi
+3 lauki
